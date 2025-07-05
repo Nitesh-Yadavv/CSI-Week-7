@@ -78,5 +78,5 @@ YearBuilt, YearRemodAdd
 ---
 
 #### Live Demo
-Try the app online: https://csi-week-7-app.streamlit.app
+Try the app online: https://csi-week-7-xd57ujvvmbnv6cdrbltr5i.streamlit.app
 
