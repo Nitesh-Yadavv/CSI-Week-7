@@ -3,6 +3,10 @@
 A Streamlit web application that predicts housing prices based on property features using a trained machine learning model. Users can make predictions either manually or by uploading a CSV file. The app also provides visualizations to help interpret the model and its inputs.
 
 ---
+#### Live Demo
+Try the app online: https://csi-week-7-xd57ujvvmbnv6cdrbltr5i.streamlit.app
+
+---
 
 ## Features
 
@@ -76,7 +80,4 @@ YearBuilt, YearRemodAdd
  Do not include engineered features — they are created by the app automatically
 
 ---
-
-#### Live Demo
-Try the app online: https://csi-week-7-xd57ujvvmbnv6cdrbltr5i.streamlit.app
 
